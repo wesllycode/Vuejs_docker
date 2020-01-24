@@ -33,9 +33,9 @@ name": "app",
 <p> Esse formato está funcionado apenas com Vue.js </p>
 
 
-#Versão das Modificações
+# Versão das Modificações
 
-## 0.1 - Atual
+### 0.1 - Atual
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
